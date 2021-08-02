@@ -17,6 +17,7 @@ body {
 
 .main {
     padding: 10px 8px;
+
 }
 
 .copy-container h1 {
@@ -26,6 +27,11 @@ body {
 .copy-container h2 {
     font-size: 30px;
 }
+
+.contents {
+    border-top: 1px solid #2f5167;
+}
+
 .footer {
     background-color: #2f5167;
     color: #fff;
